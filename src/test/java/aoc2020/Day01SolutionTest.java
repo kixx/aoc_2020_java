@@ -1,4 +1,4 @@
-package day01;
+package aoc2020;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
@@ -11,7 +11,7 @@ public class Day01SolutionTest {
 
     @BeforeEach
     public void init() {
-        day01 = new Day01Solution("day01/test.txt");
+        day01 = new Day01Solution("day01.txt");
     }
 
     @Test
