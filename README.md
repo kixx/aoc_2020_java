@@ -1,2 +1,1 @@
-# aoc_2020_java
-Advent Of Code 2020
+# Advent Of Code 2020 (Java)
